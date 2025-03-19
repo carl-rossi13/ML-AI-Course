@@ -95,4 +95,6 @@ XGBoost is the preferred model because it delivered the highest cumulative retur
 
 ## Going Forward
 To improve model adaptability and mitigate the effects of concept drift, future iterations should incorporate adaptive mechanisms that adjust to evolving market conditions. One potential enhancement is a dynamic WFO step size, where the retraining window expands or contracts based on drift detection metrics such as sudden spikes in residuals or MSE. By dynamically adjusting the training schedule, the models can better adapt to regime changes, ensuring more stable and reliable predictions over time.
+Additionally, experiementing with finer period resolutions such as hour, minute, or tick may help mitigate concept drift and would at the very least would allow for larger datasets.
+Lastly, optimizing trade logic such as risk reward ratio threshold should be explored.
 
