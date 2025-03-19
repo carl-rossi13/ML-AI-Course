@@ -1,4 +1,4 @@
-### Jupyter Notebook Link -
+### Jupyter Notebook Link - https://github.com/carl-rossi13/ML-AI-Course/blob/main/Capstone-Final/capstone%20(2).ipynb 
 
 ## Problem Statement
 The objective of this research is to determine the effectiveness of machine learning models in predicting stock price movements to generate profitable trading strategies. Specifically, this study develops and evaluates Random Forest, XGBoost, and LGBM models for Apple Inc. (AAPL) to assess their predictive capabilities. Model performance is measured using conventional error metrics (MAE/MSE) and a secondary performance metric, cumulative return, which is benchmarked against a traditional buy-and-hold strategy. This research aims to identify whether machine learning-driven trading models can outperform passive investment strategies in terms of profitability.
